@@ -1,0 +1,20 @@
+.planScreen__plan {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  opacity: 0.8;
+}
+
+.planScreen__plan:hover {
+  opacity: 1;
+}
+
+.planScreen__plan > button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #8D9EFF;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
