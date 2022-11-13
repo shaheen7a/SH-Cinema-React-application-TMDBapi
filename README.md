@@ -11,7 +11,7 @@ Thanks for checking out this Application.
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Shaheen121/SH-Cinema-React-application.git)
+- Solution URL: [Github](https://github.com/Shaheen121/SH-Cinema-React-application-TMDBapi)
 - Live Site URL: [Live Site](https://shcinema.netlify.app/)
 
 ## My process
